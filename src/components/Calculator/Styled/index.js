@@ -34,6 +34,7 @@ export const Previous = styled.div`
 export const Current = styled.div`
         color: white;
     font-size: 2.5rem;
+    letter-spacing: 2px;
 `
 
 export const Button = styled.button`
